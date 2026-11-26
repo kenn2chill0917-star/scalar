@@ -99,7 +99,7 @@
     "@vitejs/plugin-vue": "catalog:*",
     "@vue/test-utils": "catalog:*",
     "jsdom": "catalog:*",
-    "storybook": "10.5.10",
+    "storybook": "10.6.2",
     "tailwindcss": "catalog:*",
     "vite": "catalog:*",
     "vitest": "catalog:*",

@@ -81,7 +81,7 @@
     "monaco-yaml": "catalog:*",
     "posthog-js": "catalog:*",
     "shell-quote": "^1.10.0",
-    "undici": "8.11.2",
+    "undici": "7.30.1",
     "vue": "catalog:*",
     "vue-router": "catalog:*",
     "yaml": "catalog:*"
@@ -94,7 +94,7 @@
     "@types/node": "catalog:*",
     "@vitejs/plugin-vue": "catalog:*",
     "@vue/test-utils": "catalog:*",
-    "electron": "44.5.1",
+    "electron": "44.9.1",
     "electron-vite": "6.0.0-beta.1",
     "fake-indexeddb": "catalog:*",
     "vite": "catalog:*",
